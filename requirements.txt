@@ -1,0 +1,6 @@
+numpy==1.23.5
+tensorflow==2.17.1
+pillow==11.0.0
+mediapipe==0.10.18
+
+# hashes (automatically generated)
